@@ -1,0 +1,22 @@
+{
+  "name": "mauriciocoder",
+  "version": "2.0.0",
+  "description": "First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciocoder/mauriciocoder.git"
+  },
+  "author": "Mauricio Bonetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauriciocoder/mauriciocoder/issues"
+  },
+  "homepage": "https://github.com/mauriciocoder/mauriciocoder#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
